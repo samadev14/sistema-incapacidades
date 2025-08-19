@@ -1,19 +1,27 @@
 # Sistema de Gestión de Incapacidades Laborales
 
 Presento el siguiente proyecto aplicado para obtener el título profesional de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia - UNAD.
-Este proyecto se desarrolla con el objetivo de brindarle a las pequeñas y medianas empresas privadas de la ciudad de Santa Marta, Colombia, una plataforma web que les permita a esas entidades gestionar y automatizar sus procesos de incapacidades laborales. El desarrollo de este proyecto tecnológico no solamente me ayuda a demostrar mis destrezas en el desarrollo de software, también me permite aportar una solución práctica a una problemática real del entorno empresarial local, promoviendo la eficiencia operativa y el cumplimiento normativo en la gestión del talento humano. Esta iniciativa refuerza mi compromiso con el desarrollo tecnológico como herramienta de transformación social y evidencia mi capacidad para aplicar los conocimientos adquiridos en el programa académico de ingeniería de sistemas a situaciones concretas del mundo real.
+Este proyecto se desarrolla con el objetivo de brindarle a las pequeñas y medianas empresas una plataforma web que les permita la gestión eficiente de registros de incapacidades de los empleados, optimizando y automatizando los procesos administrativos de los departamentos de recursos humanos. El desarrollo de este proyecto tecnológico no solamente me ayuda a demostrar mis destrezas en el desarrollo de software, también me permite aportar una solución práctica a una problemática real del entorno empresarial local, promoviendo la eficiencia operativa y el cumplimiento normativo en la gestión del talento humano. Esta iniciativa refuerza mi compromiso con el desarrollo tecnológico como herramienta de transformación social y evidencia mi capacidad para aplicar los conocimientos adquiridos en el programa académico de ingeniería de sistemas a situaciones concretas del mundo real.
 
 ## 📝 Módulos del Proyecto
 
-* **Panel de Control:** Dashboard intuitiva, con gráfica de barras e indicadores visuales que muestran el total de incapacidades activas, pendientes, finalizadas y registradas en el sistema.
-* **Puestos de Trabajo:** Crear, consultar, actualizar y eliminar registros de nombres de los puestos de trabajo de los empleados.
-* **EPS:** Crear, consultar, actualizar y eliminar registros de nombres de Entidades Promotoras de Salud (EPS).
-* **Empleados:** Crear, consultar, actualizar y eliminar registros de la información de los empleados.
-* **Incapacidades:** Crear, consultar, actualizar y eliminar registros de incapacidades de los empleados.
-* **Notificaciones:** Crear y enviar notificaciones a los empleados acerca del estado de su incapacidad por correo electrónico corporativo.
-* **Reportes Estadísticos:** Generación de reportes PDF e imágenes en formato PNG sobre los registros de incapacidades.
-* **Usuarios:** Crear, consultar, actualizar y eliminar registros de usuarios con roles y permisos que utilizan el sistema.
-* **Roles:** Crear roles y permisos y asignarlos a los usuarios que utilizan el sistema.
+* 📊**Panel de Control (Dashboard):** Interfaz intuitiva que ofrece una vista general del sistema mediante gráficos de barras e indicadores visuales. Permite monitorear el número de incapacidades activas, pendientes, finalizadas y registradas, facilitando la toma de decisiones informadas.
+
+* 💼**Gestión de Puestos de Trabajo:** Permite la creación, edición, consulta y eliminación de los distintos cargos o posiciones laborales dentro de la empresa, sirviendo como referencia para la clasificación de empleados y reportes asociados.
+
+* 🏥**Gestión de EPS (Entidades Promotoras de Salud):** Módulo dedicado a la administración de las EPS asociadas a los empleados. Permite mantener actualizada la base de datos de EPS con operaciones de CRUD (Crear, Leer, Actualizar, Eliminar).
+
+* 👥**Gestión de Empleados:** Registro detallado de los datos personales, laborales y de salud de los empleados. Este módulo soporta la administración completa del historial del empleado y se vincula con los módulos de incapacidades y notificaciones. Incluye operaciones de CRUD (Crear, Leer, Actualizar, Eliminar).
+
+* 📝**Gestión de Incapacidades:** Permite registrar y gestionar incapacidades médicas, incluyendo duración de la incapacidad, tipo y descripción de la incapacidad y estado actual. Incluye operaciones de CRUD (Crear, Leer, Actualizar, Eliminar).
+
+* ✉️**Sistema de Notificaciones:** Automatiza el envío de correos electrónicos corporativos a los empleados para notificar cambios en el estado de sus incapacidades, mejorando la comunicación interna y reduciendo tiempos de respuesta.
+
+* 📈**Reportes Estadísticos:** Generación de reportes en formato PDF y gráficos en PNG, que resumen información clave sobre las incapacidades registradas. Ideal para auditorías, presentaciones y análisis de desempeño del área de talento humano.
+
+* 🔐**Gestión de Usuarios:** Permite administrar los usuarios del sistema, incluyendo su creación, modificación, consulta y eliminación. Cada usuario tiene un rol asignado que define sus permisos dentro de la plataforma.
+
+* 🛡️**Gestión de Roles y Permisos:** Define y administra los distintos roles del sistema (por ejemplo: Administrador, Talento Humano, Supervisor). Asigna permisos personalizados a cada rol para garantizar una gestión segura y controlada del acceso.
 
 ## 💻 Tecnologías Utilizadas
 
