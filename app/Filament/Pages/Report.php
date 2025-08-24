@@ -1,5 +1,5 @@
 <?php
-/* Módulo Reportes Estadísticos: Genera reportes en archivos PDF e imágenes PNG el resumen de registros de incapacidades por meses, a partir de la selección de una fecha inicial y una fecha final. Este módulo cuenta con las siguientes funciones:
+/* Módulo Reportes: Genera reportes en archivos PDF e imágenes PNG el resumen de registros de incapacidades por meses, a partir de la selección de una fecha inicial y una fecha final. Este módulo cuenta con las siguientes funciones:
 
 - getDataTable(): Función que obtiene los registros de incapacidades por mes a partir de la fecha de su creación en la base de datos. Los datos son extraídos del modelo Incapacity.
 
@@ -40,7 +40,7 @@ class Report extends Page implements HasForms
 
     public static function getNavigationLabel(): string
     {
-        return 'Reportes Estadísticos';
+        return 'Reportes';
     }
 
     public ?string $startDate = null;
