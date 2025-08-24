@@ -1,5 +1,7 @@
 # Sistema de Gestión de Incapacidades Laborales
 
+![Imagen de Portada](https://github.com/user-attachments/assets/9bb502c7-9531-4e2d-8278-c54f873d53e2)
+
 Presento el siguiente proyecto aplicado para obtener el título profesional de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia - UNAD.
 Este proyecto se desarrolla con el objetivo de brindarle a las pequeñas y medianas empresas una plataforma web que les permita la gestión eficiente de registros de incapacidades de los empleados, optimizando y automatizando los procesos administrativos de los departamentos de recursos humanos. El desarrollo de este proyecto tecnológico no solamente me ayuda a demostrar mis destrezas en el desarrollo de software, también me permite aportar una solución práctica a una problemática real del entorno empresarial local, promoviendo la eficiencia operativa y el cumplimiento normativo en la gestión del talento humano. Esta iniciativa refuerza mi compromiso con el desarrollo tecnológico como herramienta de transformación social y evidencia mi capacidad para aplicar los conocimientos adquiridos en el programa académico de ingeniería de sistemas a situaciones concretas del mundo real.
 
