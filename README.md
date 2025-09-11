@@ -97,7 +97,7 @@ Este proyecto se desarrolla con el objetivo de brindarle a las pequeñas y media
 -   **Paso 10:** Ingresa a la siguiente URL.
 
 ```bash
-  http://localhost:8000/admin/login
+  http://localhost/sistema-incapacidades/admin/login
 ```
 
 ## 👨‍💻 Desarrollado por
